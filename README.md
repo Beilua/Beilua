@@ -1,5 +1,6 @@
-## Hi there 👋
-
+<p align="center">
+  <img src="https://gitgarden-production.up.railway.app/api/sprite/733c8b52-51e3-41ea-a4f9-80b46ad1f96e" alt="My GitGarden Sprite" />
+</p>
 <!--
 **Beilua/Beilua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

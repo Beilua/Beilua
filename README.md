@@ -17,7 +17,7 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Beilua&theme=shadow-red&ring=b44646&fire=e88f7c&currStreakLabel=ffffff&sideNums=ff8888&currStreakNum=ff8888&dates=b44646&sideLabels=ffffff&border=ff1100&border_radius=10&card_width=890&card_height=215">
+  <img src="https://streak-stats.demolab.com/?user=Beilua&theme=shadow-red&ring=b44646&fire=e88f7c&currStreakLabel=ffffff&sideNums=ff8888&currStreakNum=ff8888&dates=b44646&sideLabels=ffffff&border=ff1100&border_radius=10&card_width=870&card_height=215">
 </div>
 <br>
 

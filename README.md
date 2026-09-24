@@ -6,9 +6,9 @@
 </div>
 <br>
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" width="448">
+  <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" width="438">
   <a href="https://github.com/Beilua">
-  <img width="474" src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Beilua&theme=gruvbox&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Caboutme%2Chobbies%2Clanguages%2Cuptime%2Cexit&customCommands=%7B%22aboutme%22%3A%22%5C%22gamedev%20and%20cp%20enthusiast%5C%22%22%2C%22hobbies%22%3A%22%5B%F0%9F%8E%B8%2C%20%F0%9F%8E%AE%2C%20%F0%9F%8E%A7%2C%20%F0%9F%93%96%5D%22%7D" alt="GitHub Stats Terminal">
+  <img width="464" src="https://github-stats-terminal-style-five.vercel.app/api/stats?username=Beilua&theme=gruvbox&headerStyle=mac&typingSpeed=80&hostname=github.com&commands=whoami%2Caboutme%2Chobbies%2Clanguages%2Cuptime%2Cexit&customCommands=%7B%22aboutme%22%3A%22%5C%22gamedev%20and%20cp%20enthusiast%5C%22%22%2C%22hobbies%22%3A%22%5B%F0%9F%8E%B8%2C%20%F0%9F%8E%AE%2C%20%F0%9F%8E%A7%2C%20%F0%9F%93%96%5D%22%7D" alt="GitHub Stats Terminal">
 </a>
 </div>
 <br>

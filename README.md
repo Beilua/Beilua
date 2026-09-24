@@ -1,7 +1,9 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=venom&color=0:662222,50:ff0000,100:b44646&height=200&section=header&fontFamily=monospace&text=hi!%20im%20beilua.&fontSize=40&animation=twinkling&fontColor=fff&stroke=ff1100&strokeWidth=3">
 </div>
-<br>
+<div align="center">
+  <img src="https://github.com/Beilua/Beilua/blob/main/assets/Art%20Love%20Sticker.gif?raw=true" width="7%">
+</div>
 <br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/82eb3cb7-5258-41e2-a736-0aeee5b7fd3a" width=46%>
@@ -10,6 +12,9 @@
 </a>
 </div>
 <br>
+<div align="center">
+  <img src="https://github.com/Beilua/Beilua/blob/main/assets/Pixel%20Pokemon%20Sticker%20by%20brunopixels.gif?raw=true" width="7%">
+</div>
 <br>
 <div align="center">
   <img src="https://streak-stats.demolab.com/?user=Beilua&theme=shadow-red&ring=b44646&fire=e88f7c&currStreakLabel=ffffff&sideNums=ff8888&currStreakNum=ff8888&dates=b44646&sideLabels=ffffff&border=ff1100&border_radius=10&card_width=890&card_height=215">
